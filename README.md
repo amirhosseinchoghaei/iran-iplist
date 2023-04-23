@@ -8,3 +8,5 @@ and copy paste ip list
 like this : 
 
 ![This is an image](https://raw.githubusercontent.com/amirhosseinchoghaei/iran-iplist/main/show.png)
+
+reboot
